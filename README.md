@@ -1,5 +1,5 @@
 # PyhonVideoSearch_by_ChatGPT.py
-This python script was completely written by ChatGPT Dec 15 Version. It allows the user to specify a folder and search for all ".mp4", ".avi", ".mkv", and ".mov" files within that folder. The script creates a simple HTML file with hyperlinks to the file paths of the found files.
+This python script was completely written by ChatGPT Dec 15 2023 Version. It allows the user to specify a folder and search for all ".mp4", ".avi", ".mkv", and ".mov" files within that folder. The script creates a simple HTML file with hyperlinks to the file paths of the found files.
 
 This can be useful for locating certain files that are lost deep within the vast span of folder trees on a hard drive. For example, you might use this script to find old videos that you had tucked away somewhere and forgotten. However, you can modify the script to find any file type you like, or expand upon it for more detailed functionality and style.
 
